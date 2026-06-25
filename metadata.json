@@ -1,0 +1,6 @@
+{
+  "name": "Recife Antigo - Guia",
+  "description": "Guia turístico interativo do Recife Antigo, destacando o Marco Zero, a Rua do Bom Jesus e a Embaixada dos Bonecos Gigantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
